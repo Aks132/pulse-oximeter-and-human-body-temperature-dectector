@@ -14,11 +14,14 @@ is greater than 37*c so app will indicate those values.
 this simple device everyone can purchase or by health department easily survey door by door.
 
 
-#Hardware Requirements:-                     Software Requirements:-
-1)ESP32                                     1)Arduino IDE
-2)micro usb to micro usb cable              2)Blynk Mobile App
+#Hardware Requirements:-                   
+1)ESP32                                  
+2)micro usb to micro usb cable             
 3)MAX30100/Max30101 sensor
 4)LM35 Temperature sensor
 5)Jumper Wire
 
+Software Requirements:-
+1)Arduino IDE
+2)Blynk Mobile App
 
